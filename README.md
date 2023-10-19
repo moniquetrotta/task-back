@@ -19,6 +19,7 @@ https://dogama-erp.github.io/api-doc/
 - Tenha liberdade pra criar e seguir as instruções da forma que achar melhor, é vago de propósito
 - Valor: R$2000-R$3500
 - Caso você não seja selecionado e tenha interesse em fazer esse mesmo serviço na codebase real, como freelance, com (muito) mais regrinhas, temos disponibilidade
+- As duas melhores submissões serão contratadas
 
 # Entrega
 
