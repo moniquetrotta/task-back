@@ -1,0 +1,30 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"lib": ["ESNext", "DOM"],
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"baseUrl": "./src",
+		"outDir": "./bin",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"strict": true,
+		"noImplicitAny": true,
+		"skipLibCheck": true,
+		"allowJs": true,
+		"allowSyntheticDefaultImports": true,
+		"sourceMap": true,
+		"types": [],
+		"incremental": true,
+		"isolatedModules": true,
+		"noUncheckedIndexedAccess": true,
+		"paths": {}
+	},
+	"tsc-alias": {
+		"resolveFullPaths": true
+	},
+	"ts-node": {
+		"swc": true
+	},
+	"include": ["src"]
+}
